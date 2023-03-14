@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Online Complaint Management</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_title">Welcome to Online Complaint Management</string>
+    <string name="dashboard_user">user</string>
+    <string name="dashboard_admin">admin</string>
+
+    <string name="admin_water">Water Complaints</string>
+    <string name="adminLogin_text">Provide your Email and Password to Login</string>
+    <string name="adminLogin_signupDesc">Don\'t have an Account?</string>
+    <string name="adminLogin_forgotDesc">Forgot your Password?</string>
+    <string name="adminLogin_loginBtn">Login</string>
+    <string name="adminLogin_passwordEditText">Password</string>
+    <string name="adminLogin_EmailEditText">Email</string>
+    <string name="adminLogin_RegisterBtn">Register</string>
+
+    <string name="developer_name">Developed By Theebika</string>
+
+    <!-- dashboard_admin nu yen pooten nu theiruma? dashboard vanthu layout ooda name and athula naan enna name kuduka pooren nu define pandren
+        dashboard -> layout name
+        admin -> value name
+        okay va?ok
+        ithu ref name okay va
+    -->
+</resources>

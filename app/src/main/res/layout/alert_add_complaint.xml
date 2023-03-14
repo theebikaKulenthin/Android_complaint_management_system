@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/ll_layout"
+    android:gravity="center_vertical">
+
+    <ImageView
+        android:id="@+id/iv_complaintImage"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/complaint" />
+
+    <Spinner
+        android:id="@+id/sp_department"
+        android:layout_width="350dp"
+        android:layout_height="50dp"
+        android:layout_below="@id/iv_complaintImage"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp" />
+
+    <EditText
+        android:id="@+id/et_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/sp_department"
+        android:layout_margin="20dp"
+        android:hint="Enter Description"
+        android:textColor="@color/textColor"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/btn_addComplaint"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/et_description"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="20dp"
+        android:backgroundTint="@color/background3"
+        android:text="Create"
+        android:textAllCaps="false"
+        android:textColor="@color/textColor"
+        android:textSize="16sp" />
+
+
+</RelativeLayout>

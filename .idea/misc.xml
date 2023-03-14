@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/OnlineComplaintManagement/app/src/main/res/drawable/bg_rounded_input_field.xml" value="0.27685185185185185" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/OnlineComplaintManagement/app/src/main/res/layout/activity_complete_details.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/OnlineComplaintManagement/app/src/main/res/layout/activity_dashboard.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/OnlineComplaintManagement/app/src/main/res/layout/activity_department_dashboard.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/OnlineComplaintManagement/app/src/main/res/layout/activity_department_login.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/OnlineComplaintManagement/app/src/main/res/layout/activity_department_register.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/OnlineComplaintManagement/app/src/main/res/layout/activity_login.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/OnlineComplaintManagement/app/src/main/res/layout/activity_main.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/OnlineComplaintManagement/app/src/main/res/layout/activity_open_complaint.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/OnlineComplaintManagement/app/src/main/res/layout/activity_register.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/OnlineComplaintManagement/app/src/main/res/layout/activity_reset_password.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/OnlineComplaintManagement/app/src/main/res/layout/alert_add_complaint.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/OnlineComplaintManagement/app/src/main/res/layout/complaint_list_item.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/OnlineComplaintManagement/app/src/main/res/layout/fragment_complaint_status.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/OnlineComplaintManagement/app/src/main/res/layout/fragment_new_complaint.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/OnlineComplaintManagement/app/src/main/res/menu/menu.xml" value="1.8285714285714285" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
