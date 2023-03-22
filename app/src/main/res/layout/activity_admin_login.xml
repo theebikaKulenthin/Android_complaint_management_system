@@ -9,7 +9,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:layout_marginLeft="30dp"
         android:layout_marginRight="30dp"
         android:orientation="vertical"
@@ -36,40 +36,44 @@
             android:layout_marginTop="10dp"
             android:text="@string/adminLogin_text"
             android:textColor="@color/textColor"
-            android:textSize="16sp" />
+            android:textSize="18sp" />
 
 
         <EditText
             android:id="@+id/et_email"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
             android:layout_marginTop="40dp"
             android:hint="@string/adminLogin_EmailEditText"
             android:textColor="@color/textColor"
-            android:textSize="16sp" />
+            android:textSize="18sp" />
 
         <EditText
             android:id="@+id/et_password"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="30dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
             android:hint="@string/adminLogin_passwordEditText"
             android:textColor="@color/textColor"
-            android:textSize="16sp"
+            android:textSize="18sp"
             android:autofillHints=""
             android:inputType="textPassword" />
 
         <Button
             android:id="@+id/btn_login"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_gravity="bottom"
+            android:layout_gravity="center"
             android:layout_marginTop="100dp"
+            android:layout_marginBottom="10dp"
             android:background="@drawable/bg_rounded_input_field"
             android:text="@string/adminLogin_loginBtn"
             android:textAllCaps="false"
             android:textColor="@color/white"
-            android:textSize="16sp" />
+            android:textSize="18sp" />
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -84,7 +88,7 @@
                 android:text="@string/adminLogin_signupDesc"
                 android:textAlignment="center"
                 android:textColor="@color/textColor"
-                android:textSize="16sp" />
+                android:textSize="18sp" />
 
             <TextView
                 android:id="@+id/tv_registerButton"
@@ -94,7 +98,7 @@
                 android:text="@string/adminLogin_RegisterBtn"
                 android:textAlignment="center"
                 android:textColor="@color/textGreen"
-                android:textSize="16sp" />
+                android:textSize="18sp" />
         </LinearLayout>
 
         <LinearLayout
@@ -103,27 +107,23 @@
             android:layout_margin="5dp"
             android:gravity="center"
             android:orientation="horizontal">
-
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        2
             <TextView
                 android:id="@+id/tv_forgotPassword"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/adminLogin_forgotDesc"
                 android:textColor="@color/textColor"
-                android:textSize="16sp" />
+                android:textSize="18sp" />
         </LinearLayout>
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:layout_marginStart="10dp"
-            android:layout_marginEnd="10dp"
-            android:layout_marginTop="50dp"
-            android:background="@android:color/transparent"
-            android:gravity="center"
-            android:text="@string/developer_name"
-            android:textSize="16sp" />
     </LinearLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="40sp"
+        android:background="@android:color/transparent"
+        android:gravity="center"
+        android:text="@string/developer_name" />
 
 </LinearLayout>

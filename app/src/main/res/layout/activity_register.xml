@@ -43,7 +43,7 @@
                 android:layout_marginTop="10dp"
                 android:text="Provide your Email and Password to Register"
                 android:textColor="@color/textColor"
-                android:textSize="16sp" />
+                android:textSize="" />
 
             <EditText
                 android:id="@+id/et_username"
@@ -52,7 +52,7 @@
                 android:layout_marginTop="40dp"
                 android:hint="Username"
                 android:textColor="@color/textColor"
-                android:textSize="16sp" />
+                android:textSize="18sp" />
 
             <EditText
                 android:id="@+id/et_email"
@@ -61,7 +61,7 @@
                 android:layout_marginTop="20dp"
                 android:hint="Email"
                 android:textColor="@color/textColor"
-                android:textSize="16sp" />
+                android:textSize="18sp" />
 
             <EditText
                 android:id="@+id/et_password"
@@ -70,7 +70,7 @@
                 android:layout_marginTop="20dp"
                 android:hint="Password"
                 android:textColor="@color/textColor"
-                android:textSize="16sp" />
+                android:textSize="18sp" />
 
             <EditText
                 android:id="@+id/et_confirmPassword"
@@ -79,7 +79,7 @@
                 android:layout_marginTop="20dp"
                 android:hint="Confirm Password"
                 android:textColor="@color/textColor"
-                android:textSize="16sp" />
+                android:textSize="18sp" />
 
             <EditText
                 android:id="@+id/et_address"
@@ -88,7 +88,7 @@
                 android:layout_marginTop="20dp"
                 android:hint="Enter Address"
                 android:textColor="@color/textColor"
-                android:textSize="16sp" />
+                android:textSize="18sp" />
 
             <EditText
                 android:id="@+id/et_phoneNumber"
@@ -98,7 +98,7 @@
                 android:hint="Enter Phone Number"
                 android:inputType="phone"
                 android:textColor="@color/textColor"
-                android:textSize="16sp" />
+                android:textSize="18sp" />
 
             <Button
                 android:id="@+id/btn_register"
@@ -109,7 +109,7 @@
                 android:text="Register"
                 android:textAllCaps="false"
                 android:textColor="@color/white"
-                android:textSize="16sp" />
+                android:textSize="18sp" />
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -124,7 +124,7 @@
                     android:text="Already have an Account?"
                     android:textAlignment="center"
                     android:textColor="@color/textColor"
-                    android:textSize="16sp" />
+                    android:textSize="18sp" />
 
                 <TextView
                     android:id="@+id/tv_loginButton"
@@ -134,7 +134,7 @@
                     android:text="Login"
                     android:textAlignment="center"
                     android:textColor="@color/textGreen"
-                    android:textSize="16sp" />
+                    android:textSize="18sp" />
 
             </LinearLayout>
 
@@ -148,7 +148,7 @@
                 android:background="@android:color/transparent"
                 android:gravity="center"
                 android:text="@string/developer_name"
-                android:textSize="16sp" />
+                android:textSize="18sp" />
         </LinearLayout>
 
     </ScrollView>

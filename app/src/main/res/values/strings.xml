@@ -16,4 +16,11 @@
     <string name="adminLogin_RegisterBtn">Register</string>
 
     <string name="developer_name">Developed By Theebika</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="desc">Provide your Email and Password to Login</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot your Password?</string>
+    <string name="unknown_desc">Don\'t have an Account?</string>
+    <string name="register">Register</string>
 </resources>

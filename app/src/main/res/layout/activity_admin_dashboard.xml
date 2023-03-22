@@ -99,7 +99,7 @@
 <!--                        android:layout_marginTop="8dp"-->
 <!--                        android:text="The river is very dirty and unhygenic"-->
 <!--                        android:textColor="@color/textColor"-->
-<!--                        android:textSize="16sp" />-->
+<!--                        android:textSize="18sp" />-->
 
 <!--                    <TextView-->
 <!--                        android:id="@+id/tv_complaintStatus"-->
