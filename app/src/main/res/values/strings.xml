@@ -18,9 +18,13 @@
     <string name="developer_name">Developed By Theebika</string>
     <string name="email">Email</string>
     <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
     <string name="desc">Provide your Email and Password to Login</string>
     <string name="login">Login</string>
     <string name="forgot_password">Forgot your Password?</string>
     <string name="unknown_desc">Don\'t have an Account?</string>
     <string name="register">Register</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_address">Enter Address</string>
+    <string name="hint_phone_number">Enter Phone Number</string>
 </resources>
